@@ -15,8 +15,32 @@ Suspendisse orci dui, dignissim et elementum a, accumsan facilisis magna. Aenean
 
 Mauris sagittis imperdiet felis at condimentum. Suspendisse pharetra quis nisi ut rhoncus. Aliquam vulputate maximus quam in convallis. Fusce ultrices risus eu porta imperdiet. Cras ipsum diam, varius vehicula eleifend vel, ultrices eget ante. Nulla vel cursus dolor. Aenean vehicula aliquam lectus, at commodo est eleifend et. In nec odio finibus, consectetur ipsum eu, pulvinar arcu. Phasellus tempus enim libero, rutrum porttitor metus venenatis in. Pellentesque cursus, ante blandit sagittis facilisis, dolor velit molestie augue, sit amet sodales ligula lacus eget nisi. Nulla metus nunc, interdum sit amet enim non, luctus malesuada felis. Aliquam sed risus quis ipsum auctor ultricies.
 
-Etiam efficitur diam sed turpis elementum rhoncus. Vestibulum auctor rhoncus diam sit amet consequat. Vestibulum suscipit dolor nisl, consequat dictum justo euismod ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur pharetra dapibus velit ut rhoncus. Vestibulum lectus odio, tincidunt ut ligula id, sollicitudin lacinia leo. Sed auctor laoreet feugiat. Ut in justo at tellus cursus dignissim finibus ut velit. Fusce felis augue, volutpat cursus purus sed, elementum aliquam mi. Vivamus vitae pulvinar dolor. Duis hendrerit, orci in venenatis elementum, urna eros blandit ex, sit amet ornare odio sem id leo. Aenean accumsan nibh ut lacus interdum faucibus. Nunc magna tortor, varius eget dui id, sagittis imperdiet dui. Nulla facilisi. Pellentesque vel condimentum massa. Pellentesque sed odio et mi ornare tristique.
+### Small image
 
-Aenean vehicula diam leo, ut sagittis massa egestas eu. Praesent sodales nisi nec nibh posuere eleifend. Nunc a enim et ex porta hendrerit. Sed scelerisque posuere tristique. Morbi consectetur augue vel lorem pretium accumsan. Etiam tristique finibus fermentum. Maecenas facilisis blandit erat eu vulputate.
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-Proin at cursus leo, at rutrum metus. Nulla ut tellus sodales, consectetur turpis a, vulputate leo. Duis sed massa eget lorem varius laoreet sed sed odio. Ut ac eros vitae justo efficitur facilisis sit amet sit amet quam. Etiam iaculis nulla vitae gravida dignissim. Nullam rhoncus metus dolor, gravida suscipit lorem tempus at. Nam vitae tortor non nisl suscipit placerat at at velit. Maecenas augue magna, pharetra ac commodo sit amet, dapibus vitae enim. Nullam lobortis elit non mi convallis, nec vulputate ex viverra. Etiam velit nulla, convallis vestibulum efficitur ut, dapibus eget massa. Aliquam iaculis enim non arcu tincidunt, sit amet auctor metus maximus.
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
